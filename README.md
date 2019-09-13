@@ -1,3 +1,8 @@
+Septamber 13, 2019
+Courtney Harris and Linlin Cui
+ckharris@vims.edu; lcui@vims.edu
+
+
 Oil-Particle-Aggregate module (OPAMOD)
 
 OPAMOD is based on an existing, population dynamics-based flocculation model (FLOCMOD) in ROMS to account for the formation of OPAs. It was coupled with an oil plume model (https://github.com/DmitryDukh/COAWST-ROMS-OIL) to retrieve oil properties from Eulerian coordinates.
